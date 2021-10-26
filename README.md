@@ -1,0 +1,2 @@
+# suitecrmmodule
+Working example
